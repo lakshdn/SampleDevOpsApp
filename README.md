@@ -1,1 +1,1 @@
-# SampleDevOpsApp 
+# SampleApp 
