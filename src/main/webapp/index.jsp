@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World from Jenkins-Auto Build!</h2>
+<h2>Hello World from Jenkins-Auto Build with Polling enabled!</h2>
 </body>
 </html>
